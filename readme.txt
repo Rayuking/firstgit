@@ -4,4 +4,8 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 add a branch "dev"
+<<<<<<< Updated upstream
 git is a free software.
+=======
+meet a bug
+>>>>>>> Stashed changes
