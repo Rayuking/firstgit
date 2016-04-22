@@ -1,2 +1,1 @@
-# firstgit
-this is my first git
+# dispoay my own solution to the questions of "Leetcode"
